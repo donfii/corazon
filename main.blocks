@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=")/=!Q*c)W+CyaCVjkh:b" x="0" y="0"></block><block type="device_forever" id="iR=20=WNM,_FrN|23(:2" x="205" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="9(9_TrQgT?Rx8?s5lh*_"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="Y!;pih-Y;tWQ?da4l+u,"><value name="pause"><shadow type="timePicker" id="GZy8H83s39Cxi((d65z6"><field name="ms">100</field></shadow></value><next><block type="basic_show_icon" id="YrJs5VCEAYjGqqh^6VaW"><field name="i">IconNames.SmallHeart</field></block></next></block></next></block></statement></block></xml>
